@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ernest Tobolkin</h1>
-<h3 align="center">I'm Full Stack Web Developer.</h3>
+<h3 align="center">Full Stack Web Developer at Cambium Applicable Innovation.</h3>
 
-- 🌱 . I am currently learning **.NET (C#)**
+- 🌱 I am currently learning **.NET (C#)**
 development with **SQL Server**.
 
 - 📫 How to reach me **ernest1047@gmail.com**

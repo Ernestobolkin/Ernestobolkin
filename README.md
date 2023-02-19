@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ernest Tobolkin</h1>
 <h3 align="center">I'm Full Stack Web Developer.</h3>
 
-- 🌱 I’m currently learning **React, Node.js, MongoDb**
+- 🌱 . I am currently learning **.NET (C#)**
+development with **SQL Server**.
 
 - 📫 How to reach me **ernest1047@gmail.com**
 
